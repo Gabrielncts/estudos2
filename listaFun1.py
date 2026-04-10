@@ -1,0 +1,5 @@
+print ("informe as dimensões do terreno")
+base = float (input("base: "))
+altura = float (input("altura "))
+area = (base * altura)
+print(f"Área do terreno: {area}")
